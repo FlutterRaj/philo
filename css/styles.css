@@ -1,0 +1,258 @@
+body {
+    text-align: center;
+    background-color: #e4f9ff;
+    position: relative;
+    padding-top: 100px;
+    font-size: 150%;
+    font-family: 'Fondamento', cursive;
+}
+
+h1 {
+    font-family: 'Rochester', cursive;
+    font-size: 5.625rem;
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: #2ed573;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #66BFCF;
+    font-weight: normal;
+}
+
+.h3-design {
+    color: #11999E;
+}
+
+p {
+    font-family: 'Arimo',
+        sans-serif;
+    font-size: 20px;
+}
+
+.profile-image {
+    margin-top: 70px;
+    height: 200px;
+}
+
+
+.top-brain {
+    position: relative;
+    left: 170px;
+    top: 20px;
+    height: 8rem;
+    width: 12rem;
+}
+
+.left-book {
+    position: absolute;
+    left: 400px;
+    height: 10rem;
+    width: 10rem;
+}
+
+.right-book {
+    position: absolute;
+    right: 400px;
+    height: 10rem;
+    width: 10rem;
+}
+
+
+.footer-link {
+    color: #11999E;
+}
+
+.skill-row {
+    text-align: left;
+    margin: 50px auto 100px auto;
+    width: 50%;
+    line-height: 2;
+}
+
+.code-image {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.pc-image {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+.my-info {
+    color: #40514E;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.h2-design {
+    color: #11999E;
+}
+
+.footer-design {
+    color: black;
+    padding: 2%;
+}
+
+
+.footer-link {
+    margin: 40px;
+    color: #00b8a9;
+}
+
+.footer-link:hover {
+    color: #07689f;
+    font-size: 40px;
+}
+
+.bottom-container {
+    background-color: #cbf1f5;
+    margin-bottom: 0;
+    padding: 70px;
+}
+
+.copyright {
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 70px;
+    color: #00b8a9;
+    font-weight: bold;
+}
+
+.developer {
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 20px;
+    color: #07689f;
+    font-weight: bold;
+}
+
+.developer:hover {
+    font-size: 17px;
+    margin-bottom: 0;
+    margin-top: 20px;
+    color: #8914e9;
+    font-weight: bold;
+}
+
+#features {
+    padding: 5%;
+    position: relative;
+    z-index: 0;
+    /* for hide phone image*/
+}
+
+.feature {
+    line-height: 2.5rem;
+    color: #3498db;
+}
+
+.col-lg-4 {
+    padding: 5%;
+}
+
+.icon {
+    color: #08BCA6;
+    margin-bottom: 5%;
+}
+
+.icon:hover {
+    color: #218838;
+}
+
+.feature-p {
+    padding-top: 10%;
+}
+
+.h3-margin {
+    padding-top: 4rem;
+}
+
+
+.h3-title {
+    padding-top: 2rem;
+    color: #66BFCF;
+    font-weight: normal;
+}
+
+.card-background {
+    background-color: #e4f9ff;
+}
+
+.card-padding {
+    padding: 5% 0;
+}
+
+.card-title {
+    font-size: 30px;
+    color: #a55eea;
+}
+
+.btn {
+    font-size: 30px;
+    background-color: #08BCA6;
+}
+
+
+#contact {
+    padding: 5%;
+}
+
+
+/* fa buttons */
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-google {
+    background: #eb3b5a;
+    color: white;
+}
+
+.fa-twitter {
+    background: #4b7bec;
+    color: white;
+}
+
+.fa-instagram {
+    background: #a55eea;
+    color: white;
+}
+
+.fa-github {
+    background: #4b6584;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 65px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 10px;
+}
